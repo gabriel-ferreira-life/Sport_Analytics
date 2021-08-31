@@ -10,5 +10,5 @@ size expands at a CAGR of 31.2% and is expected to reach $4.6 billion by 2025. I
 preference for sports as a career option and the growing demand for tracking and monitoring
 players’ live data are expected to drive market growth. The use of analytics in sporting events
 helps various stakeholders, including sportsperson, associations, and fans, to gain in-depth insights
-on live in-game activity and past game events."
+on live in-game activity and past game events.
 ```
