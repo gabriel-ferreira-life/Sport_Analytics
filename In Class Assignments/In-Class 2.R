@@ -14,4 +14,8 @@ length(unique(goalie_stats$team_id))
 goalie_95_w = subset(goalie_stats, savePercentage > 95 & decision == 'W')
 
 ## Reporting the number of goalies with savePercent age > 95% in winning plays
+<<<<<<< HEAD
 dim(goalie_95_w)
+=======
+dim(goalie_95_w)
+>>>>>>> 60c52fc6e6ed83422119e5e74c4fa6d71556c685
